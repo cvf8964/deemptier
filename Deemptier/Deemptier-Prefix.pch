@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Deemptier' target in the 'Deemptier' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
